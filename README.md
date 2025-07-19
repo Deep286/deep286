@@ -4,6 +4,7 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 
 ---
 
+
 ## 🔧 Core Expertise
 
 - ☁️ **Cloud & Infra**: AWS, Terraform, Kubernetes, GitLab CI/CD, Jenkins, TeamCity
@@ -14,7 +15,9 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 - 📈 **Observability**: Prometheus exporters, JMX metrics, Opsgenie alert pipelines
 - ⚙️ **Platforms**: Matlab, Salesforce, Boomi
 
+
 ---
+
 
 ## 🧠 Specialized Domains
 
@@ -32,7 +35,7 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 - Governed **Salesforce metadata deployments** and platform stability at scale
 - Developed **agentic AI integrations** to monitor, validate, and automate deployment steps
 
-### ☁️ Boomi Runtime Architecture on Kubernetes (EKS)
+### ⚙️ Boomi Runtime Architecture on Kubernetes (EKS)
 - 🧱 Containerized **Boomi Molecule** components and deployed them as Kubernetes Deployments
 - 🚨 Configured **self-healing deployments** via Kubernetes liveness/readiness probes and Prometheus alerts
 - 📦 Used shared **RWX volumes (EFS/NFS)** to maintain molecule installation state across pods
@@ -40,7 +43,9 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 - 📈 Leveraged Cluster **Autoscaler and HPA (Horizontal Pod Autoscaler)** for usage-based scaling
 - 🔄 Automated node clean-up and de-registration workflows
 
+
 ---
+
 
 ## 🤖 AI Stack Highlights
 
@@ -49,7 +54,9 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 - 🧰 **Amazon Q CLI**: Used to accelerate complex analysis, pipelines debugging, deployment readiness, code explainability, and deployment summary
 - ⚙️ **Custom GPTs**: Created GPTs with built-in tool actions, process enhancement, and deployment logic
 
+
 ---
+
 
 ## 📂 Noteworthy Repositories
 
@@ -59,10 +66,12 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 
 ---
 
+
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deep-suthar-76b216189)
 
----
+
+
 
 ⭐️ *Thanks for visiting! I'm open to collaborations in DevOps tooling, AI systems, Salesforce governance, and embedded automation.*
