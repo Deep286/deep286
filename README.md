@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deep!
 
-I'm a DevOps Engineer with 4+ years of experience building scalable infrastructure, automating deployment pipelines, and integrating modern AI tooling into developer workflows. I’ve worked across cloud platforms, safety-critical embedded systems, and enterprise SaaS like Salesforce — with a passion for system reliability and developer experience.
+I'm a DevOps Engineer with 5+ years of experience building scalable infrastructure, automating deployment pipelines, and integrating modern AI tooling into developer workflows. I’ve worked across cloud platforms, safety-critical embedded systems, and enterprise SaaS like Salesforce — with a passion for system reliability and developer experience.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a DevOps Engineer with 4+ years of experience building scalable infrastructu
 - ☁️ **Cloud & Infra**: AWS, Terraform, Kubernetes, GitLab CI/CD, Jenkins, TeamCity
 - 🐳 **DevOps**: Docker, Prometheus, Grafana
 - 📦 **Configuration & Release Management**: Git strategies, branching models, semantic versioning
-- 🤖 **AI Tooling**: MCP, Amazon Q CLI, Cursor Agents, Custom GPTs, Agentic workflows(N8N)
+- 🤖 **AI Tooling**: MCP, Amazon Q CLI, Cursor Agents, Custom GPTs, Agentic workflows(N8N), Claude, Vercel, n8n
 - 🧪 **Automation**: Bash, Python, Jsonnet, YAML, CLI bots
 - 📈 **Observability**: Prometheus exporters, JMX metrics, Opsgenie alert pipelines
 - ⚙️ **Platforms**: Matlab, Salesforce, Boomi
